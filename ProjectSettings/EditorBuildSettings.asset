@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Shadow Puzzle/Scenes/Used/Main Menu.unity
+    guid: 87986b535043a9348afd3ba5a6e0c314
+  - enabled: 1
+    path: Assets/_Shadow Puzzle/Scenes/New_Levels/Level_1.unity
+    guid: 9a56160c1da16c140b3f6a5c3b380f59
+  - enabled: 1
+    path: Assets/_Shadow Puzzle/Scenes/New_Levels/Level_2.unity
+    guid: f35c123155f8f684bb3a5fc766f7d1d7
+  - enabled: 1
+    path: Assets/_Shadow Puzzle/Scenes/New_Levels/Level_3.unity
+    guid: dd383385fb852914a92c6f18b29f93f8
+  - enabled: 1
+    path: Assets/_Shadow Puzzle/Scenes/New_Levels/Level_4.unity
+    guid: 3f1bbca4783efa44ebf7a6e079be2ea4
+  - enabled: 1
+    path: Assets/_Shadow Puzzle/Scenes/New_Levels/Level_5.unity
+    guid: 938dffad71e32224b9406c9733791013
+  - enabled: 1
+    path: Assets/_Shadow Puzzle/Scenes/New_Levels/Level_6.unity
+    guid: aedbbd901953f9041b14fd194241dbda
+  - enabled: 1
+    path: Assets/_Shadow Puzzle/Scenes/New_Levels/Level_7.unity
+    guid: c04f361cbe86f8842a9ac7abf6c87e55
+  - enabled: 1
+    path: Assets/_Shadow Puzzle/Scenes/New_Levels/Level_8.unity
+    guid: 307b0839e6ed3a34ca2870d21695defe
+  - enabled: 1
+    path: Assets/_Shadow Puzzle/Scenes/New_Levels/Level_9.unity
+    guid: 5d6b48c22d7d37946b79719140e6fad4
+  - enabled: 1
+    path: Assets/_Shadow Puzzle/Scenes/New_Levels/Level_10.unity
+    guid: 9bde1e73ffdc0094abef682b1f049a8e
+  - enabled: 1
+    path: Assets/_Shadow Puzzle/Scenes/New_Levels/Level_11.unity
+    guid: 3f4c911c5d3fcb34b9813cddea8a28f7
+  - enabled: 1
+    path: Assets/_Shadow Puzzle/Scenes/New_Levels/Level_12.unity
+    guid: 01acb19742c18244ebea8ae33f6fb888
+  - enabled: 1
+    path: Assets/_Shadow Puzzle/Scenes/New_Levels/Level_End.unity
+    guid: 6ce49e4308a7f1f469c3e6c091bc8214
+  m_configObjects: {}
